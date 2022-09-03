@@ -1,9 +1,0 @@
-## ignore all files wo extension
-*
-!/**/
-!*.*
-
-nimcache
-*.exe
-*.swp
-build
